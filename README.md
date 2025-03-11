@@ -15,6 +15,7 @@ To Develop a python program to Plot a time series data (population/ market price
 
 
 
+![Screenshot 2025-03-11 080956](https://github.com/user-attachments/assets/20f91672-183f-4601-80d7-6bd0daa01e13)
 
 
 
@@ -23,6 +24,8 @@ To Develop a python program to Plot a time series data (population/ market price
 
 
 # OUTPUT:
+![Screenshot 2025-03-11 081012](https://github.com/user-attachments/assets/0089604d-c1a7-46c7-9b4b-ced83b3ed014)
+
 
 
 
